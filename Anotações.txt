@@ -1,0 +1,24 @@
+* SHA1
+algoritmo de encriptação, security hash algoritm. encriptação gera conjunto de
+caracteres identificado de 40 dígitos. Forma curta de representar um arquivo.
+
+* Blobs
+sao arquivos
+blob
+
+\0
+
+* Trees
+Armazenam blobs, responsavel pela estrutura dos arquivos. arvore aponta pra outra arvore
+diretorio aponta pra outro diretorio.
+
+* Commits
+Junta e comanda tudo, aponta pra arvore, aponta pro parente, pro autor e mensagem
+
+* GIT INIT
+Criando repositorio no git dentro do diretório
+tracked rastreavel, unmodified, modified, 
+staged (se preparando pra entrar em ação) depois vira commit
+
+* GIT STATUS
+Diz o status do git
